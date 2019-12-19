@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Strava  & Pictures
 subtitle: Page
 image: /img/_mg_6150.jpg
 blurb:
